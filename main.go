@@ -7,7 +7,7 @@ import (
 
 func main() {
 
-	firstPrintedPage := 7
+	firstPrintedPage := 1
 	lastPrintedPage := 613
 
 	sheetsInMiniBook := 10 // 12-47 11-43 10-39 9-35 8-31 7-27 6-23 5-19 4-15 3-11 2-7 1-3
